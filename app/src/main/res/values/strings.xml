@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Phi-3 Chat</string>
+    <string name="chat_title">Phi-3 Chat</string>
+    <string name="loading_model">Loading model…</string>
+    <string name="no_model_title">No model loaded</string>
+    <string name="no_model_body">Import a Phi-3 GGUF file to start chatting. Everything stays on this device — no internet connection is used at any point.</string>
+    <string name="import_model">Import GGUF model</string>
+    <string name="new_chat">New chat</string>
+    <string name="settings">Settings</string>
+    <string name="send">Send</string>
+    <string name="stop">Stop</string>
+    <string name="message_hint">Ask anything…</string>
+    <string name="thinking">Thinking…</string>
+    <string name="content_description_send">Send message</string>
+    <string name="content_description_stop">Stop generating</string>
+    <string name="content_description_back">Back</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+    <!-- Model weights are gigabytes and are re-importable: never back them up. -->
+    <exclude domain="file" path="models" />
+    <exclude domain="database" path="phi3chat.db" />
+</full-backup-content>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- A stylised "phi" mark inside a chat bubble: the accent bar at the bottom
+     echoes a text cursor, hinting at on-device generation. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <path
+        android:fillColor="#5C7CFA"
+        android:pathData="M34,22h40a10,10 0 0 1 10,10v28a10,10 0 0 1 -10,10h-22l-14,12v-12h-4a10,10 0 0 1 -10,-10v-28a10,10 0 0 1 10,-10z" />
+
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M45,56v-6h6c2.2,0 4,-1.8 4,-4v-3h-10v-6h16v9c0,5.5 -4.5,10 -10,10h-6z" />
+
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M43,37h6v6h-6z" />
+
+    <path
+        android:fillColor="#4DD0E1"
+        android:pathData="M42,72h24v5h-24z" />
+</vector>
